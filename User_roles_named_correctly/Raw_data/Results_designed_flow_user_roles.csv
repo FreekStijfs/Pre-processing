@@ -1,0 +1,28 @@
+ID,DateTime,UserID,Controller,Action,Method,ActionParameters
+1054864,2020-06-07 10:27:13.317,21,Login,AuthCheck,GET,{}
+1054865,2020-06-07 10:27:13.333,21,Login,AuthCheck,GET,{}
+1054866,2020-06-07 10:27:13.410,21,Environment,Get,GET,{}
+1054867,2020-06-07 10:27:13.440,21,Addon,IsEnabled,GET,"{""name"":""FolderReview""}"
+1054868,2020-06-07 10:27:22.593,21,Login,AuthCheck,GET,{}
+1054869,2020-06-07 10:27:22.640,21,Addon,IsEnabled,GET,"{""name"":""FolderReview""}"
+1054870,2020-06-07 10:27:25.357,21,Addon,IsEnabled,GET,"{""name"":""FolderReview""}"
+1054871,2020-06-07 10:27:25.357,21,ContentProfile,Index,GET,{}
+1054872,2020-06-07 10:27:25.357,21,FaqList,Index,GET,{}
+1054873,2020-06-07 10:27:25.433,21,Article,Index,GET,"{""includeChildren"":false,""includeConceptArticles"":false}"
+1054874,2020-06-07 10:27:26.593,21,Login,AuthCheck,GET,{}
+1054875,2020-06-07 10:27:26.653,21,Addon,IsEnabled,GET,"{""name"":""FolderReview""}"
+1054876,2020-06-07 10:27:27.450,21,Addon,IsEnabled,GET,"{""name"":""FolderReview""}"
+1054877,2020-06-07 10:27:27.450,21,Group,Index,GET,{}
+1054878,2020-06-07 10:27:27.450,21,Organization,Index,GET,{}
+1054879,2020-06-07 10:27:27.467,21,User,Index,GET,{}
+1054880,2020-06-07 10:27:27.497,21,Role,Index,GET,{}
+1054881,2020-06-07 10:27:53.077,21,User,Create,POST,"{""model"":{""User"":{""ID"":24,""Username"":""TestGebruiker"",""FirstName"":""Stijfs"",""MiddleName"":null,""LastName"":""testtest"",""FullName"":""Stijfs testtest (TestGebruiker)"",""Active"":false,""TwoFactorAuthenticationType"":0,""FactorSlackUser"":""Freek"",""FactorPhoneNumber"":null},""Roles"":[],""Organizations"":null,""Groups"":null}}"
+1054882,2020-06-07 10:27:54.047,21,Role,Index,GET,{}
+1054883,2020-06-07 10:27:54.077,21,Right,Index,GET,{}
+1054884,2020-06-07 10:28:03.803,21,Role,Create,POST,"{""model"":{""Id"":null,""Name"":""Testrol"",""Rights"":[""adminZorgpad"",""adminPathways"",""adminPathwayVariants"",""adminPhases"",""adminWaypoints"",""adminCriteria"",""adminContextCriteria"",""adminBasicPathway"",""adminNotifications"",""adminInfo"",""adminUsers"",""adminGebuikers"",""adminDepartments"",""adminTest"",""adminApplication""]}}"
+1054885,2020-06-07 10:28:04.803,21,Organization,Index,GET,{}
+1054886,2020-06-07 10:28:04.817,21,Group,Index,GET,{}
+1054887,2020-06-07 10:28:04.817,21,Role,Index,GET,{}
+1054888,2020-06-07 10:28:04.833,21,User,Index,GET,{}
+1054889,2020-06-07 10:28:10.527,21,User,Update,PUT,"{""model"":{""User"":{""ID"":24,""Username"":""TestGebruiker"",""FirstName"":""Stijfs"",""MiddleName"":null,""LastName"":""testtest"",""FullName"":""Stijfs testtest (TestGebruiker)"",""Active"":false,""TwoFactorAuthenticationType"":0,""FactorSlackUser"":""Freek"",""FactorPhoneNumber"":null},""Roles"":[{""ID"":7,""Name"":null}],""Organizations"":[],""Groups"":[]}}"
+1054890,2020-06-07 10:28:13.827,21,Login,Logout,GET,{}

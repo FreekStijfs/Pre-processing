@@ -1,0 +1,26 @@
+ID,DateTime,UserID,Controller,Action,Method,ActionParameters
+626833,2020-02-20 10:21:47.583,5,Login,AuthCheck,GET,{}
+626834,2020-02-20 10:21:47.617,5,Login,AuthCheck,GET,{}
+626835,2020-02-20 10:21:47.773,5,Environment,Get,GET,{}
+626836,2020-02-20 10:21:47.833,5,Addon,IsEnabled,GET,"{""name"":""FolderReview""}"
+626837,2020-02-20 10:21:52.147,5,Login,AuthCheck,GET,{}
+626838,2020-02-20 10:21:52.240,5,Addon,IsEnabled,GET,"{""name"":""FolderReview""}"
+626839,2020-02-20 10:22:05.227,5,Application,Index,GET,"{""onlyAutomaticInvites"":null}"
+626840,2020-02-20 10:22:05.240,5,Style,Index,GET,{}
+626841,2020-02-20 10:22:05.240,5,Article,Index,GET,"{""includeChildren"":false,""includeConceptArticles"":false}"
+626842,2020-02-20 10:22:05.320,5,CareProvider,Index,GET,"{""concept"":false,""hide"":false}"
+626843,2020-02-20 10:22:07.430,5,ReferralSection,Index,GET,"{""applicationId"":1}"
+626844,2020-02-20 10:22:07.443,5,Application,Read,GET,"{""id"":1}"
+626845,2020-02-20 10:22:09.930,5,ApplicationMenuCategory,ApplicationIndex,GET,"{""applicationID"":1}"
+626846,2020-02-20 10:22:13.193,5,FaqList,Index,GET,{}
+626847,2020-02-20 10:22:13.210,5,GeneralSetting,IsChipsoftEpd,GET,{}
+626848,2020-02-20 10:22:13.210,5,Article,Index,GET,"{""includeChildren"":false,""includeConceptArticles"":false}"
+626849,2020-02-20 10:22:13.187,5,ApplicationMenuItem,Index,GET,"{""categoryID"":2,""applicationId"":null}"
+626850,2020-02-20 10:22:15.460,5,ApplicationMenuItemFaqList,Index,GET,"{""applicationMenuItemId"":20}"
+626851,2020-02-20 10:22:15.460,5,ApplicationMenuItemArticle,Index,GET,"{""applicationMenuItemId"":20}"
+626852,2020-02-20 10:22:15.460,5,ApplicationMenuItemTemplate,Index,GET,"{""applicationMenuItemId"":20}"
+626853,2020-02-20 10:22:15.617,5,FaqList,Index,GET,{}
+626855,2020-02-20 10:22:22.210,5,ApplicationMenuItem,UpdateItem,POST,"{""id"":20,""model"":{""ID"":20,""ApplicationMenuCategoryID"":2,""ApplicationID"":null,""Order"":2,""Title"":""Mijn Gegevens"",""FrameTitle"":""Mijn gegevens"",""URL"":""{Portal.BaseUrl}/pages/persoonsgegevens.aspx"",""Icon"":2,""Type"":0,""HideForCareprovider"":true,""HideForDemo"":true,""HideForTrial"":true,""NavigatesBackToPrevious"":false,""ConclusionAndPolicyTemplateId"":null,""ConclusionAndPolicyDepartmentName"":null,""ConclusionAndPolicyColumnNames"":null,""ConclusionAndPolicyConsultTypes"":null,""ConclusionAndPolicyStartDate"":null,""ConclusionAndPolicyDelay"":null,""LetterViewBaseUrl"":null,""SettingsDescription"":"""",""SettingsPush"":false,""SettingsPushDescription"":null,""SettingsSMS"":false,""SettingsSMSDescription"":null,""SettingsEmail"":false,""SettingsEmailDescription"":null,""SMSEmailDescription"":"""",""UseSAMLPortalIntegration"":false,""ShowPopup"":false,""ShowPopupAgain"":false,""PopupTitle"":null,""PopupContent"":null,""ShowPopupAgainContent"":null,""ShowLoadingIndicator"":false,""NotificationId"":null,""Notification"":null}}"
+626856,2020-02-20 10:22:22.273,5,ApplicationMenuItemFaqList,Index,GET,"{""applicationMenuItemId"":20}"
+626857,2020-02-20 10:22:22.287,5,ApplicationMenuItemArticle,Index,GET,"{""applicationMenuItemId"":20}"
+626858,2020-02-20 10:22:22.287,5,ApplicationMenuItemTemplate,Index,GET,"{""applicationMenuItemId"":20}"

@@ -1,0 +1,17 @@
+ID,DateTime,UserID,Controller,Action,Method,ActionParameters
+94502,2019-04-03 17:12:47.197,6,Login,AuthCheck,GET,{}
+94503,2019-04-03 17:12:47.227,6,Login,AuthCheck,GET,{}
+94504,2019-04-03 17:12:47.337,6,Environment,Get,GET,{}
+94505,2019-04-03 17:12:48.413,6,Group,Index,GET,{}
+94506,2019-04-03 17:12:48.430,6,Organization,Index,GET,{}
+94507,2019-04-03 17:12:48.447,6,User,Index,GET,{}
+94508,2019-04-03 17:12:48.447,6,Role,Index,GET,{}
+94509,2019-04-03 17:13:01.650,6,User,Create,POST,"{""model"":{""User"":{""ID"":11,""Username"":""Ilse"",""FirstName"":""Ilse"",""MiddleName"":null,""LastName"":""Griffioen"",""FullName"":""Ilse Griffioen (Ilse)"",""Active"":true,""FactorSlackUser"":null},""Roles"":[],""Organizations"":null,""Groups"":null}}"
+94510,2019-04-03 17:13:02.243,6,Right,Index,GET,"{""flat"":false}"
+94511,2019-04-03 17:13:02.273,6,Role,Index,GET,{}
+94512,2019-04-03 17:13:06.757,6,Role,Create,POST,"{""model"":{""Role"":{""ID"":5,""Name"":""Huisstijl inrichten""},""Rights"":[{""ID"":30,""Name"":null,""DisplayName"":null,""ParentRightID"":null,""ChildRights"":null},{""ID"":39,""Name"":null,""DisplayName"":null,""ParentRightID"":null,""ChildRights"":null},{""ID"":52,""Name"":null,""DisplayName"":null,""ParentRightID"":null,""ChildRights"":null}]}}"
+94513,2019-04-03 17:13:07.790,6,Organization,Index,GET,{}
+94514,2019-04-03 17:13:07.790,6,Group,Index,GET,{}
+94515,2019-04-03 17:13:07.820,6,User,Index,GET,{}
+94516,2019-04-03 17:13:07.820,6,Role,Index,GET,{}
+94517,2019-04-03 17:13:10.180,6,User,Update,POST,"{""id"":11,""model"":{""User"":{""ID"":11,""Username"":""Ilse"",""FirstName"":""Ilse"",""MiddleName"":null,""LastName"":""Griffioen"",""FullName"":""Ilse Griffioen (Ilse)"",""Active"":true,""FactorSlackUser"":null},""Roles"":[{""ID"":5,""Name"":null}],""Organizations"":[],""Groups"":[]}}"

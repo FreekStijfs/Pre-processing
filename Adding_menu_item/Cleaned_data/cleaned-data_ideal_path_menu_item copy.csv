@@ -1,0 +1,9 @@
+,ID,DateTime,UserID,UserAction
+3,126780,2020-06-12 12:18:20.120,1,Login
+9,126786,2020-06-12 12:18:32.510,1,Open Article Page
+11,126788,2020-06-12 12:18:35.027,1,Open Application Page
+12,126789,2020-06-12 12:18:38.980,1,Open ApplcationMenuCategory
+13,126790,2020-06-12 12:18:43.683,1,Open ApplicationMenuItem
+14,126792,2020-06-12 12:18:43.683,1,Open FAQ Page
+15,126793,2020-06-12 12:18:43.683,1,Open Article Page
+17,126795,2020-06-12 12:19:01.200,1,Select Menu Item Type

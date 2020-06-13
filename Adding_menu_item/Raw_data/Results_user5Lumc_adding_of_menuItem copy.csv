@@ -1,0 +1,33 @@
+ID,DateTime,UserID,Controller,Action,Method,ActionParameters
+607468,2020-01-21 18:39:57.667,5,Login,AuthCheck,GET,{}
+607469,2020-01-21 18:39:57.713,5,Login,AuthCheck,GET,{}
+607470,2020-01-21 18:39:57.917,5,Environment,Get,GET,{}
+607471,2020-01-21 18:39:57.917,5,Addon,IsEnabled,GET,"{""name"":""FolderReview""}"
+607472,2020-01-21 18:39:59.510,5,Login,AuthCheck,GET,{}
+607473,2020-01-21 18:39:59.743,5,Addon,IsEnabled,GET,"{""name"":""FolderReview""}"
+607474,2020-01-21 18:40:01.387,5,Application,Index,GET,"{""onlyAutomaticInvites"":null}"
+607475,2020-01-21 18:40:01.400,5,Style,Index,GET,{}
+607476,2020-01-21 18:40:01.527,5,Article,Index,GET,"{""includeChildren"":false,""includeConceptArticles"":false}"
+607477,2020-01-21 18:40:01.993,5,CareProvider,Index,GET,"{""concept"":false,""hide"":false}"
+607478,2020-01-21 18:40:03.183,5,ReferralSection,Index,GET,"{""applicationId"":1}"
+607479,2020-01-21 18:40:03.197,5,Application,Read,GET,"{""id"":1}"
+607480,2020-01-21 18:40:05.510,5,ApplicationMenuCategory,ApplicationIndex,GET,"{""applicationID"":1}"
+607481,2020-01-21 18:40:08.713,5,FaqList,Index,GET,{}
+607482,2020-01-21 18:40:08.713,5,ApplicationMenuItem,Index,GET,"{""categoryID"":3,""applicationId"":null}"
+607483,2020-01-21 18:40:08.730,5,GeneralSetting,IsChipsoftEpd,GET,{}
+607484,2020-01-21 18:40:08.823,5,Article,Index,GET,"{""includeChildren"":false,""includeConceptArticles"":false}"
+607485,2020-01-21 18:40:13.760,5,ApplicationMenuItemFaqList,Index,GET,"{""applicationMenuItemId"":36}"
+607486,2020-01-21 18:40:13.777,5,ApplicationMenuItemLink,Index,GET,"{""applicationMenuItemId"":null}"
+607487,2020-01-21 18:40:13.777,5,ApplicationMenuItemArticle,Index,GET,"{""applicationMenuItemId"":36}"
+607488,2020-01-21 18:40:13.777,5,ApplicationMenuItemTemplate,Index,GET,"{""applicationMenuItemId"":36}"
+607489,2020-01-21 18:40:13.933,5,FaqList,Index,GET,{}
+607490,2020-01-21 18:40:18.947,5,ApplicationMenuItem,UpdateItem,POST,"{""id"":36,""model"":{""ID"":36,""ApplicationMenuCategoryID"":3,""ApplicationID"":null,""Order"":8,""Title"":""Radiologie verslagen"",""FrameTitle"":""Radiologie verslagen"",""URL"":""{Portal.BaseUrl}/pages/Radiologieverslagen.aspx"",""Icon"":0,""Type"":24,""HideForCareprovider"":true,""HideForDemo"":true,""HideForTrial"":true,""HideInsideOutsideReference"":false,""NavigatesBackToPrevious"":false,""ConclusionAndPolicyTemplateId"":null,""ConclusionAndPolicyDepartmentName"":null,""ConclusionAndPolicyColumnNames"":null,""ConclusionAndPolicyConsultTypes"":null,""ConclusionAndPolicyStartDate"":null,""ConclusionAndPolicyDelay"":null,""LetterViewBaseUrl"":null,""Description"":null,""SettingsDescription"":"""",""SettingsPush"":false,""SettingsPushDescription"":null,""SettingsSMS"":false,""SettingsSMSDescription"":null,""SettingsEmail"":false,""SettingsEmailDescription"":null,""SMSEmailDescription"":"""",""UseSAMLPortalIntegration"":false,""ShowPopup"":false,""ShowPopupAgain"":false,""PopupTitle"":"""",""PopupContent"":"""",""ShowPopupAgainContent"":"""",""ShowLoadingIndicator"":false,""NotificationId"":14,""Notification"":{""ID"":14,""Code"":null,""Title"":null,""NotificationAction"":6,""Recurring"":false,""RecurringType"":0,""MomentHours"":0,""MomentMinutes"":0,""Frequency"":0,""AfterDaysAfterAppointment"":0,""UntilDaysAfterAppointment"":0,""Before"":false,""MinutesBeforeAfter"":0,""IsEmail"":false,""IsSMS"":false,""IsPush"":false,""EmailSubject"":""Nieuw radiologieverslag"",""EmailText"":null,""SMSText"":""U kunt een nieuw radiologieverslag bekijken."",""Gender"":null,""CountTEEmbryo"":false,""IsGeneral"":false,""StartDateTime"":null,""EndDateTime"":null}}}"
+607491,2020-01-21 18:40:19.010,5,ApplicationMenuItemFaqList,Index,GET,"{""applicationMenuItemId"":36}"
+607492,2020-01-21 18:40:19.010,5,ApplicationMenuItemLink,Index,GET,"{""applicationMenuItemId"":null}"
+607493,2020-01-21 18:40:19.010,5,ApplicationMenuItemArticle,Index,GET,"{""applicationMenuItemId"":36}"
+607494,2020-01-21 18:40:19.010,5,ApplicationMenuItemTemplate,Index,GET,"{""applicationMenuItemId"":36}"
+607495,2020-01-21 18:41:02.903,5,ApplicationMenuItem,UpdateItem,POST,"{""id"":36,""model"":{""ID"":36,""ApplicationMenuCategoryID"":3,""ApplicationID"":null,""Order"":8,""Title"":""Radiologieverslagen"",""FrameTitle"":""Radiologie verslagen"",""URL"":""{Portal.BaseUrl}/pages/Radiologieverslagen.aspx"",""Icon"":0,""Type"":24,""HideForCareprovider"":true,""HideForDemo"":true,""HideForTrial"":true,""HideInsideOutsideReference"":false,""NavigatesBackToPrevious"":false,""ConclusionAndPolicyTemplateId"":null,""ConclusionAndPolicyDepartmentName"":null,""ConclusionAndPolicyColumnNames"":null,""ConclusionAndPolicyConsultTypes"":null,""ConclusionAndPolicyStartDate"":null,""ConclusionAndPolicyDelay"":null,""LetterViewBaseUrl"":null,""Description"":null,""SettingsDescription"":"""",""SettingsPush"":false,""SettingsPushDescription"":null,""SettingsSMS"":false,""SettingsSMSDescription"":null,""SettingsEmail"":false,""SettingsEmailDescription"":null,""SMSEmailDescription"":"""",""UseSAMLPortalIntegration"":false,""ShowPopup"":false,""ShowPopupAgain"":false,""PopupTitle"":"""",""PopupContent"":"""",""ShowPopupAgainContent"":"""",""ShowLoadingIndicator"":false,""NotificationId"":14,""Notification"":{""ID"":14,""Code"":null,""Title"":null,""NotificationAction"":6,""Recurring"":false,""RecurringType"":0,""MomentHours"":0,""MomentMinutes"":0,""Frequency"":0,""AfterDaysAfterAppointment"":0,""UntilDaysAfterAppointment"":0,""Before"":false,""MinutesBeforeAfter"":0,""IsEmail"":false,""IsSMS"":false,""IsPush"":false,""EmailSubject"":""Nieuw radiologieverslag"",""EmailText"":null,""SMSText"":""U kunt een nieuw radiologieverslag bekijken."",""Gender"":null,""CountTEEmbryo"":false,""IsGeneral"":false,""StartDateTime"":null,""EndDateTime"":null}}}"
+607496,2020-01-21 18:41:02.980,5,ApplicationMenuItemFaqList,Index,GET,"{""applicationMenuItemId"":36}"
+607497,2020-01-21 18:41:02.980,5,ApplicationMenuItemArticle,Index,GET,"{""applicationMenuItemId"":36}"
+607498,2020-01-21 18:41:02.980,5,ApplicationMenuItemLink,Index,GET,"{""applicationMenuItemId"":null}"
+607499,2020-01-21 18:41:02.980,5,ApplicationMenuItemTemplate,Index,GET,"{""applicationMenuItemId"":36}"

@@ -1,0 +1,20 @@
+﻿ID;DateTime;UserID;Controller;Action;Method;ActionParameters
+126777;2020-06-12 12:18:19.993;1;Login;AuthCheck;GET;{}
+126778;2020-06-12 12:18:20.027;1;Login;AuthCheck;GET;{}
+126779;2020-06-12 12:18:20.087;1;Environment;Get;GET;{}
+126780;2020-06-12 12:18:20.120;1;Addon;IsEnabled;GET;"{""name"":""FolderReview""}"
+126781;2020-06-12 12:18:22.230;1;Login;AuthCheck;GET;{}
+126782;2020-06-12 12:18:22.277;1;Addon;IsEnabled;GET;"{""name"":""FolderReview""}"
+126783;2020-06-12 12:18:32.417;1;Style;Index;GET;{}
+126784;2020-06-12 12:18:32.417;1;Application;Index;GET;"{""onlyAutomaticInvites"":null}"
+126785;2020-06-12 12:18:32.463;1;CareProvider;Index;GET;"{""concept"":false,""hide"":false}"
+126786;2020-06-12 12:18:32.510;1;Article;Index;GET;"{""includeChildren"":false,""includeConceptArticles"":false}"
+126787;2020-06-12 12:18:35.010;1;ReferralSection;Index;GET;"{""applicationId"":1}"
+126788;2020-06-12 12:18:35.027;1;Application;Read;GET;"{""id"":1}"
+126789;2020-06-12 12:18:38.980;1;ApplicationMenuCategory;ApplicationIndex;GET;"{""applicationID"":1}"
+126790;2020-06-12 12:18:43.683;1;ApplicationMenuItem;Index;GET;"{""categoryID"":38,""applicationId"":null}"
+126792;2020-06-12 12:18:43.683;1;FaqList;Index;GET;{}
+126793;2020-06-12 12:18:43.683;1;Article;Index;GET;"{""includeChildren"":false,""includeConceptArticles"":false}"
+126794;2020-06-12 12:19:01.137;1;ApplicationMenuItem;CreateItem;POST;"{""model"":{""ID"":0,""ApplicationMenuCategoryID"":38,""ApplicationID"":null,""Order"":2,""Title"":""Dit is een test"",""FrameTitle"":null,""URL"":""https://test.nl"",""Icon"":2,""Type"":17,""HideForCareprovider"":true,""HideForDemo"":true,""HideForTrial"":true,""NavigatesBackToPrevious"":false,""ConclusionAndPolicyTemplateId"":null,""ConclusionAndPolicyDepartmentName"":null,""ConclusionAndPolicyColumnNames"":null,""ConclusionAndPolicyConsultTypes"":null,""ConclusionAndPolicyStartDate"":null,""ConclusionAndPolicyDelay"":null,""LetterViewBaseUrl"":null,""SettingsDescription"":"""",""SettingsPush"":false,""SettingsPushDescription"":null,""SettingsSMS"":false,""SettingsSMSDescription"":null,""SettingsEmail"":false,""SettingsEmailDescription"":null,""SMSEmailDescription"":"""",""UseSAMLPortalIntegration"":false,""ShowPopup"":false,""ShowPopupAgain"":false,""PopupTitle"":"""",""PopupContent"":"""",""ShowPopupAgainContent"":"""",""ShowLoadingIndicator"":false,""ShowDownloadButton"":false,""NotificationId"":null,""Notification"":null}}"
+126795;2020-06-12 12:19:01.200;1;ApplicationMenuItemArticle;Index;GET;"{""applicationMenuItemId"":1074}"
+126798;2020-06-12 12:19:04.950;1;Login;Logout;GET;{}
