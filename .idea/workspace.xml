@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64e3950e-c3e7-4a31-b20f-b29266694a4d" name="Default Changelist" comment="" />
+    <list default="true" id="64e3950e-c3e7-4a31-b20f-b29266694a4d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Readme.dm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adding_menu_item/Cleaned_data/cleaned-data_ideal_path_menu_item copy.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adding_menu_item/Cleaned_data/cleaned-data_ideal_path_menu_item.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Adding_menu_item/Cleaned_data/cleaned-data_ideal_path_menu_item.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adding_menu_item/Raw_data/Ideal_flow_adding_of_menu_item copy.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Adding_menu_item/Raw_data/Ideal_flow_adding_of_menu_item copy.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PreProcessingDBData.py" beforeDir="false" afterPath="$PROJECT_DIR$/PreProcessingDBData.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User_roles_named_correctly/Cleaned_data/cleaned-data_test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/User_roles_named_correctly/Cleaned_data/cleaned-data_designed_flow.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cleaned-data_jbz_user5" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +27,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1cs6sYSzaGujIKl73siAjuHjcwu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/cleaned-data_jbz_user5.csv" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -26,11 +39,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/User_roles_named_correctly/Cleaned_data" />
+      <recent name="$PROJECT_DIR$/User_roles_named_correctly" />
       <recent name="$PROJECT_DIR$/Global_waypoints/Cleaned_data" />
       <recent name="$PROJECT_DIR$/Global_waypoints" />
       <recent name="$PROJECT_DIR$/Adding_menu_item/Cleaned_data" />
-      <recent name="$PROJECT_DIR$/Adding_menu_item/Raw_data" />
-      <recent name="$PROJECT_DIR$/Global_waypoints/Raw_data" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -110,5 +123,18 @@
       <updated>1591305160465</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

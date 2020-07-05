@@ -29,16 +29,14 @@ def create_list_form_series():
 datetime_list = create_list_form_series()
 max = len(datetime_list)
 def check_time_difference(first, first_plus_one):
-    time_login = datetime_list[first]
-    time_login_date_time = datetime.datetime.strptime(time_login, '%Y-%m-%d %H:%M:%S.%f')
-    time_session_end = datetime_list[first_plus_one]
-    time_session_end_date_time = datetime.datetime.strptime(time_session_end, '%Y-%m-%d %H:%M:%S.%f')
-    difference = time_session_end_date_time - time_login_date_time
-
+    time_action1 = datetime_list[first]
+    time_action1_date_time = datetime.datetime.strptime(time_action1, '%Y-%m-%d %H:%M:%S.%f')
+    time_action2 = datetime_list[first_plus_one]
+    time_action2_date_time = datetime.datetime.strptime(time_action2, '%Y-%m-%d %H:%M:%S.%f')
+    difference = time_action2_date_time - time_action1_date_time
     if difference.seconds > 0.5:
         return True
     else:
-
         return False
 '''Check all records in the file. The max is defined in the beginning of the file
 Returns all actual actions'''
@@ -108,7 +106,6 @@ name_mapping = {
     'GeneralSetting GetBaseUrl' : 'Open General Settings Page',
     'StyleElement Index' : 'Set Style',
     'StyleElement Update' : 'Save Style'
-
 }
 #apply the dictionary to the dataframe
 df['UserAction']= df['UserAction'].map(name_mapping)
